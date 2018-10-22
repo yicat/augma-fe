@@ -5,6 +5,8 @@
   "dependencies": {
     "@types/react-router": "^4.0.32",
     "@types/react-router-dom": "^4.3.1",
+    "antd": "^3.10.1",
+    "history": "^4.7.2",
     "inversify": "^5.0.1",
     "inversify-inject-decorators": "^3.1.0",
     "mobx": "^5.5.1",
@@ -26,6 +28,13 @@
     "@types/node": "^10.12.0",
     "@types/react": "^16.4.18",
     "@types/react-dom": "^16.0.9",
+    "autoprefixer": "^9.2.1",
+    "css-loader": "^1.0.0",
+    "less": "^3.8.1",
+    "less-loader": "^4.1.0",
+    "postcss-loader": "^3.0.0",
+    "react-app-rewired": "^1.6.2",
+    "style-loader": "^0.23.1",
     "typescript": "^3.1.3"
   }
 }
